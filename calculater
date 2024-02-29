@@ -7,3 +7,7 @@ addition
 cout<<"add"<<endle;
 "subtraction"
 cout<<"a-b"<<endle;
+"multiplication"
+cout<<"a*b<<endle;
+"division"
+cout<<a/b<<endle;
